@@ -4,14 +4,14 @@ CBRSIR-hash
 -Dataset  
   --test  
   --train  
--Model_save
--Model
-  --NET.py
-  --alexnet.pth
--Load_data.py
--Retravel_test.py
--Split_Dataset.py
--Train_Net.py
+-Model_save   
+-Model   
+  --NET.py   
+  --alexnet.pth    
+-Load_data.py   
+-Retravel_test.py   
+-Split_Dataset.py   
+-Train_Net.py   
 
 
 ## 步骤
